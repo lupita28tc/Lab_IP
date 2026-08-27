@@ -24,4 +24,4 @@ if es_primo == True:
   else:
      print("No esta en Fibonacci")
 else:
-    print("No es primo")
+    print("No es primo") 
